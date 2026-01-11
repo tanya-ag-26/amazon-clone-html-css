@@ -1,2 +1,17 @@
 # amazon-clone-html-css
-Developed a front end clone of Amazon using HTML and CSS, implementing responsive layouts, product listings, and navigation bar design. Practiced real world web design and UI structuring.
+# Amazon Website Clone (HTML & CSS)
+
+This is a front end clone of Amazon, created as a practice project to improve HTML and CSS skills.
+
+## Features
+- Responsive layout
+- Navigation bar
+- Product listing page
+- Styled with CSS
+
+## Technologies Used
+- HTML
+- CSS
+
+## Purpose
+To learn and practice front end web development by replicating a real world e commerce website layout.
